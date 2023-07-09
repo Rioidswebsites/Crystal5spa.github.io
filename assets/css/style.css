@@ -137,7 +137,13 @@ button {
     -ms-transition: .3s;
     -o-transition: .3s;
 }
+.address{
+    font-size: 15px;
+    color: white;
+    text-transform: none;
+    width: full;
 
+}
 button:focus,
 input:focus,
 input:focus,
@@ -7050,6 +7056,7 @@ ul.cat li a:hover {
     border: 2px solid #eaedff;
     padding: 50px 30px;
     padding-bottom: 22px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0,0.5)
 }
 
 .single-address span {
